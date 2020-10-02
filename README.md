@@ -9,10 +9,11 @@ Single style transfer is the technique of transferring the style aspects of one 
 
 I have used that notebook as reference and cleaned up the order of execution of cells by creating all classes and method definitions at the top and calling them all at once by passing them as parameters to the algorithm. Here are some instances of how a single style transfer works-
 <p float = "left">
-<img src="images/Mona_Lisa.jpg" width="256"> 
+<img src="images/Mona_Lisa.jpg" width="256">
 <img src="images/Scream.png" width="256">
 <img src="Results/ML_Scream.jpg" width="256">
 </p>
+
 ## Multi Style Transfer
 
 Multi style transfer os the technique of transferring the styles of two or more images on a content image, blend them with the content image to generate different artistic styles. In this repository, I have extended the Style Transfer with 1 image and added the ability to process 2 style images, easily scalable to multiple images. I've used PyTorch with complete implementation in the notebook itself.
