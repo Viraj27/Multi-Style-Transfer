@@ -13,6 +13,17 @@ I have used that notebook as reference and cleaned up the order of execution of 
 <img src="images/Scream.png" width="256">
 <img src="Results/ML_Scream.jpg" width="256">
 </p>
+<p float = "left">
+<img src="images/Last_Supper.jpg" width="256">
+<img src="images/picasso_512x512.jpg" width="256">
+<img src="Results/LS_SN.jpg" width="256">
+</p>
+<p float = "left">
+<img src="images/French_Revolution.jpg" width="256">
+<img src="images/starry_night.jpg" width="256">
+<img src="Results/FR + StN.jpg" width="256">
+</p>
+
 
 ## Multi Style Transfer
 
