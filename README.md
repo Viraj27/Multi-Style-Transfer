@@ -29,4 +29,12 @@ I have used that notebook as reference and cleaned up the order of execution of 
 
 Multi style transfer os the technique of transferring the styles of two or more images on a content image, blend them with the content image to generate different artistic styles. In this repository, I have extended the Style Transfer with 1 image and added the ability to process 2 style images, easily scalable to multiple images. I've used PyTorch with complete implementation in the notebook itself.
 
+**Note : The weights and the number of iterations are hyperparameters and hence, require tuning respective to the content and style images you provide. Some of the samples below worked with 300 iterations and some of them had to be run for 600-800 iterations. Similiarly, the content and style weights of the images had to be finetuned to get optimal results. Please do not consider the hyperparameters in the notebook as the "correct" values, feel free to play around with them and see what results they get you!**
+
 Some instances of Multi-Style transfer at play - 
+<p float = "left">
+<img src="images/dancing.jpg" width="256">
+<img src="images/Scream.png" width="256">
+<img src="images/picasso_512x512.jpg" width="256">
+</p>
+<img src="Results/Dancing+Stream+Picasso.jpg" width="512">
