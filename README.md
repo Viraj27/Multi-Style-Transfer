@@ -9,8 +9,8 @@ Single style transfer is the technique of transferring the style aspects of one 
 
 I have used that notebook as reference and cleaned up the order of execution of cells by creating all classes and method definitions at the top and calling them all at once by passing them as parameters to the algorithm. Here are some instances of how a single style transfer works-
 
-![Content image](https://github.com/[Viraj27]/[Multi-Style-Transfer]/blob/[master]/picasso.jpg?raw=true) 
-![Content image](https://github.com/[Viraj27]/[Multi-Style-Transfer]/blob/[master]/starry_night.jpg?raw=true) 
+![Content image](images/picasso.jpg) 
+![Content image](images/starry_night.jpg) 
 
 ## Multi Style Transfer
 
