@@ -37,4 +37,4 @@ Some instances of Multi-Style transfer at play -
 <img src="images/Scream.png" width="256">
 <img src="images/picasso_512x512.jpg" width="256">
 </p>
-<img src="Results/Dancing+Stream+Picasso.jpg" width="512">
+<img src="Results/Dancing+Scream+Picasso.jpg" width="768" height="512">
