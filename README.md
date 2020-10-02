@@ -9,9 +9,9 @@ Single style transfer is the technique of transferring the style aspects of one 
 
 I have used that notebook as reference and cleaned up the order of execution of cells by creating all classes and method definitions at the top and calling them all at once by passing them as parameters to the algorithm. Here are some instances of how a single style transfer works-
 <p float = "left">
-<img src="images/Mona_Lissa.jpg" width="256"> 
-<img src="images/Scream.png" width="256">
-<img src="results/ML_Scream.png" width="256">
+<img src="Images/Mona_Lissa.jpg" width="256"> 
+<img src="Images/Scream.png" width="256">
+<img src="Results/ML_Scream.png" width="256">
 </p>
 ## Multi Style Transfer
 
