@@ -9,9 +9,8 @@ Single style transfer is the technique of transferring the style aspects of one 
 
 I have used that notebook as reference and cleaned up the order of execution of cells by creating all classes and method definitions at the top and calling them all at once by passing them as parameters to the algorithm. Here are some instances of how a single style transfer works-
 
-![Content image](images/picasso.jpg =512x512)
-<img src="images/picasso.jpg" width="512" height="512">
-![Content image](images/starry_night.jpg) 
+<img src="images/picasso.jpg" width="256" height="256">
+<img src="images/starry_night.jpg" width="256" height="256">
 
 ## Multi Style Transfer
 
